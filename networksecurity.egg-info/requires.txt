@@ -1,9 +1,6 @@
 python-dotenv
-pandas 
-numpy 
+pandas
+numpy
 pymongo
 certifi
 scikit-learn
-
-
--e .

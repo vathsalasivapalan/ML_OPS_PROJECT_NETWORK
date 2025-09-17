@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: ml_ops_project_network
+Version: 0.0.1
+Author: Vathsala Sivapalan
+Author-email: vathsalasivapalan@gmail.com
+License-File: LICENCE
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
